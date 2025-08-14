@@ -1,0 +1,10 @@
+2025-08-14 00:28:16,422 - INFO - Succesfully read the YAML file
+2025-08-14 00:28:16,422 - INFO - Data Ingestion started with my_buckethotel and file is  Hotel_Reservations.csv
+2025-08-14 00:28:16,422 - INFO - Starting data ingestion process
+2025-08-14 00:28:16,422 - INFO - Connecting to GCP bucket: my_buckethotel
+2025-08-14 00:28:20,202 - INFO - CSV file successfully downloaded to artifacts/raw\raw.csv
+2025-08-14 00:28:20,202 - INFO - Starting the splitting process
+2025-08-14 00:28:20,341 - INFO - Train data saved to artifacts/raw\train.csv
+2025-08-14 00:28:20,341 - INFO - Test data saved to artifacts/raw\test.csv
+2025-08-14 00:28:20,343 - INFO - Data ingestion completed sucesfully
+2025-08-14 00:28:20,343 - INFO - Data ingestion completed
